@@ -1,0 +1,7 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"></rect>
+  <text x="20" y="75" font-size="48" font-family="Poppins, Arial" font-weight="600">
+    <tspan fill="#111">art</tspan>
+    <tspan fill="#f97316">ROOT</tspan>
+  </text>
+</svg>
